@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **huparelaa@eafit.edu.co**
 
-- ⚡ Fun fact **I don't like Undertale**
+- ⚡ Undertale is the best game in the history ❤️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
