@@ -22,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huparelaa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="huparelaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huparelaa&theme=dark" alt="huparelaa" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huparelaa&label=Profile%20views&color=0eb419&style=flat" alt="huparelaa" /> </p>
