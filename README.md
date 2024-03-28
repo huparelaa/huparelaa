@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hobar</h1>
-<h3 align="center">Trainee fullstack developer</h3>
-
-
-- 🔭 I’m currently working on [CarniCount](https://github.com/huparelaa/CarniCount)
+<h3 align="center">Junior fullstack developer</h3>
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **react, python and java :)**
+- 💬 Ask me about **React, Python and Java :)**
 
 - 📫 How to reach me **hobarlanupa@gmail.com**
 
