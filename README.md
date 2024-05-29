@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hobar</h1>
 <h3 align="center">Junior fullstack developer</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🛣️ All roads lead to ***.NET***
 
 - 💬 Ask me about **React, Angular, Node**
 
