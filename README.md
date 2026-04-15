@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hobar</h1>
-<h3 align="center">Software engineer | fullstack developer</h3>
+<h3 align="center">Software engineer | Fullstack developer</h3>
 
 - 🛣️ All roads lead to ***.NET***
 
